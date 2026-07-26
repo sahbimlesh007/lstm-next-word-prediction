@@ -23,15 +23,10 @@ This project is a **Next Word Prediction** application built using **Python, Ten
 ├── lstm_model.h5
 ├── tokenizer.pkl
 ├── max_len.pkl
-├── requirements.txt
 └── README.md
 ```
 
-## Installation
 
-```bash
-pip install -r requirements.txt
-```
 
 ## Run the Application
 
